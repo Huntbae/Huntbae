@@ -1,0 +1,46 @@
+[
+  {
+    "id": "S1",
+    "title": "20240822 지역공공교통체계 구축전략(안)-마실카포럼",
+    "type": "drive-pdf",
+    "drive_id": "14haCosIQz-So_OieIQUU5AN7y5_8FSWK",
+    "drive_url": "https://drive.google.com/file/d/14haCosIQz-So_OieIQUU5AN7y5_8FSWK/view",
+    "path": "sources/S1-20240822-strategy.md",
+    "date": "2024-08-22",
+    "org": "이모빌리티산업협회 마실카포럼",
+    "ingested_at": "2026-06-13"
+  },
+  {
+    "id": "S2",
+    "title": "2026 스마트도시 규제샌드박스 경주시 참여제안",
+    "type": "drive-pptx",
+    "drive_id": "19FMII_q15_qgMzELb66k0p4m8og1jW_y",
+    "drive_url": "https://drive.google.com/file/d/19FMII_q15_qgMzELb66k0p4m8og1jW_y/view",
+    "path": "sources/S2-2026-gyeongju-sandbox.md",
+    "date": "2026-04",
+    "org": "이모빌리티연구조합",
+    "ingested_at": "2026-06-13"
+  },
+  {
+    "id": "S3",
+    "title": "20240423 지역공공교통체계 구축방안 (강원·횡성 버전)",
+    "type": "drive-pdf",
+    "drive_id": "15GN051n_ww73xHnstGVkxHhpPGugEozQ",
+    "drive_url": "https://drive.google.com/file/d/15GN051n_ww73xHnstGVkxHhpPGugEozQ/view",
+    "path": "sources/S3-20240423-strategy.md",
+    "date": "2024-04-23",
+    "org": "이모빌리티연구조합",
+    "ingested_at": "2026-06-13"
+  },
+  {
+    "id": "S4",
+    "title": "20240416 마실카(GSM)포럼 사업개요",
+    "type": "drive-pdf",
+    "drive_id": "18CoiTlKsW-J6h6b74bg13WCHbei756NY",
+    "drive_url": "https://drive.google.com/file/d/18CoiTlKsW-J6h6b74bg13WCHbei756NY/view",
+    "path": "sources/S4-20240416-overview.md",
+    "date": "2024-04-16",
+    "org": "이모빌리티연구조합",
+    "ingested_at": "2026-06-13"
+  }
+]
